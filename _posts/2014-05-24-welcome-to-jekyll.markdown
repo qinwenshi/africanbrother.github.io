@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2014-05-24 23:52:38
-categories: 非洲人的足迹
+categories: travel
 ---
 
 想当年在泰山脚下
