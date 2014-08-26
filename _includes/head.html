@@ -9,4 +9,9 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="stylesheet" href="{{ "/css/pygments.css" | prepend: site.baseurl }}">
+        <!-- some other meta -->
+    {% if page.url == "/404.html" %}
+        <meta http-equiv="refresh" content="5; url=/">
+    {% endif %}
+    <!-- some other stuff like link or script -->
 </head>
