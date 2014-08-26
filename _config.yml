@@ -12,11 +12,11 @@ paginate: 3
 
 # Links
 links:
-  - title: "abt"
+  - title: "关于"
     url: /about
-  - title: "twt"
+  - title: "推特"
     url: http://twitter.com/shiqinwen
   - title: "git"
     url: http://github.com/qinwenshi
-  - title: "rss"
+  - title: "更新订阅"
     url: /feed.xml
