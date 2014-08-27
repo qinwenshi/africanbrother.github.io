@@ -1,6 +1,5 @@
-typewriter
+非洲同胞关怀主站
 ==========
 
-A simple and beautiful theme for Jekyll.
+非洲人
 
-![Screenshot](https://raw.githubusercontent.com/alixedi/typewriter/master/images/screenshot.png)
