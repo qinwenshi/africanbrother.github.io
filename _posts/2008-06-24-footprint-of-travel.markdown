@@ -29,7 +29,7 @@ categories: travel
 
 仨基友
 =====
-![仨基友][sajiyou]
+![仨基友][sanjiyou]
 
 同志们好
 ======
@@ -47,7 +47,7 @@ categories: travel
 [maojin]:	 		/images/maojin.jpg
 [jiuyi]:			/images/jiuyi.jpg
 [daile]:			/images/daibi.jpg
-[sajiyou]:			/images/sajiyou.jpg
+[sanjiyou]:			/images/sanjiyou.jpg
 [jiyou]:			/images/jiyou.jpg
 [tongzhimenhao]:	/images/tongzhimenhao.jpg
 [yanpo]:			/images/yanpo.jpg
