@@ -9,11 +9,11 @@ categories: shicha
 
 交易
 =====
-![交易][jiaoyi]{width=400px height=400px}
+![交易][jiaoyi]
 
 嘴瘫
 =====
-![嘴瘫][zuitan]{width=400px height=400px}
+![嘴瘫][zuitan]
 
 视察
 =====
