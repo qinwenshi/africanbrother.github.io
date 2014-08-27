@@ -99,4 +99,4 @@ categories: travel
 　　疑点7
 　　古城遗址、工程设施、未知植物、双鱼玉佩之间有什么联系?
 
-[shouji]: /images/shouji.png
+[shouji]: /images/handwriting.png
